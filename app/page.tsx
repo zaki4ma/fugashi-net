@@ -84,7 +84,7 @@ export default function Home() {
               num="05"
               status="live"
               title="Tsudzuki"
-              description="積み重ねを記録・可視化するサービス。"
+              description="毎日の習慣を記録し、継続の力を可視化する。"
               colorIndex={6}
               href="https://tsudzuki.vercel.app/"
             />
