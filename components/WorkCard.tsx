@@ -7,7 +7,7 @@ interface WorkCardProps {
   status: Status
   title: string
   description: string
-  colorIndex: 1 | 2 | 3 | 4 | 5
+  colorIndex: 1 | 2 | 3 | 4 | 5 | 6
 }
 
 const statusMap: Record<Status, { cls: string; label: string }> = {

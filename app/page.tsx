@@ -82,6 +82,14 @@ export default function Home() {
             />
             <WorkCard
               num="05"
+              status="live"
+              title="Tsudzuki"
+              description="積み重ねを記録・可視化するサービス。"
+              colorIndex={6}
+              href="https://tsudzuki.vercel.app/"
+            />
+            <WorkCard
+              num="06"
               status="beta"
               title="Anivell"
               description="AIがギフト選びをサポート。相手の趣味・関係性・予算をもとに、ぴったりのプレゼントを提案する。"
