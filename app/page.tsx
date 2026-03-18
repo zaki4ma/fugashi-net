@@ -90,6 +90,14 @@ export default function Home() {
             />
             <WorkCard
               num="06"
+              status="live"
+              title="生成AIパスポート 合格対策クイズ"
+              description="生成AIパスポート試験の合格を目指すための対策クイズサービス。"
+              colorIndex={1}
+              href="https://genaipass.vercel.app/"
+            />
+            <WorkCard
+              num="07"
               status="beta"
               title="Anivell"
               description="AIがギフト選びをサポート。相手の趣味・関係性・予算をもとに、ぴったりのプレゼントを提案する。"
