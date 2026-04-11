@@ -105,6 +105,14 @@ export default function Home() {
               wide
               href="https://anivell.vercel.app/"
             />
+            <WorkCard
+              num="08"
+              status="live"
+              title="Questock"
+              description="タスク管理にゲーミフィケーションを導入。タスク完了でカードを獲得し、フレンドと週次ボスバトルに挑める。AIが取り組みやすいサブタスクを自動提案する。"
+              colorIndex={2}
+              href="https://questock.vercel.app/"
+            />
           </div>
         </section>
 
